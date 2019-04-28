@@ -1,6 +1,6 @@
 # react-native-circle-loader
 
-#installation
+# installation
 `npm install react-native-circle-loader --save`
 or
 `yarn add react-native-circle-loader`
