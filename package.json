@@ -1,0 +1,26 @@
+{
+  "name": "react-native-circle-loader",
+  "version": "1.0.0",
+  "description": "Animated, transparent loader similar to Spotify that works with expo. ",
+  "main": "CircleLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aynul/react-native-circle-loader.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "expo",
+    "circle",
+    "loader"
+  ],
+  "author": "Aynul Habib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aynul/react-native-circle-loader/issues"
+  },
+  "homepage": "https://github.com/aynul/react-native-circle-loader#readme"
+}
